@@ -1,0 +1,9 @@
+1.Chicken Biriyani
+2.Tandoor Chicken
+3.Veg Pizza
+4.Gujrati Dhokla
+5.Masala Dhosa
+6.Burgers
+7.Chicken Curry
+8.Pongal
+9.Chicken Tikka
