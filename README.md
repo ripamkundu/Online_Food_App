@@ -4,13 +4,13 @@ Node Version : 16.12.0
 MongoD version : 5.0
 
 for admin --
-  npm install
-  ng serve
+  1. npm install
+  2. ng serve
 
 For user --
-   npm install
-   ng serve --port 4500
+   1. npm install
+   2. ng serve --port 4500
 
 For Server --
-  node app.js
+  1. node app.js
   
